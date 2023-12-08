@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "948066989011",
+    "project_id": "story-chest",
+    "storage_bucket": "story-chest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948066989011:android:8c577acb9210037d917526",
+        "android_client_info": {
+          "package_name": "com.example.story_chest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc1OHtPFQRkQsSrt4KtYI20t7Z1zF1KzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
